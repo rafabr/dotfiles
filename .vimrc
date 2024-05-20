@@ -7,4 +7,7 @@ set number
 set hlsearch
 set ruler
 highlight Comment ctermfg=green
-
+set swapfile
+set dir=~/swp
+set nobackup
+set noundofile
